@@ -78,7 +78,7 @@ For **Claude Code** run: `claude mcp add lanten -e LANTEN_API_KEY=lk_your_key --
 | Variable | Required | Description |
 |---|---|---|
 | `LANTEN_API_KEY` | ✅ | Your API key from Settings → Developers |
-| `LANTEN_API_URL` | — | Override the base URL (e.g. for self-hosted instances). Defaults to `https://app.lanten.co/api/open/v1` |
+| `LANTEN_API_URL` | — | Override the base URL (e.g. for self-hosted instances). Defaults to `https://app.lanten.ai/api/open/v1` |
 
 ---
 
